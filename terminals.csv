@@ -1,0 +1,299 @@
+terminal_id,merchant_id,terminal_name,terminal_description,terminal_city,terminal_type,terminal_serial,terminal_version
+T000000,M00000,STORE,"""common common common thing""",CHI,ONL,SN261172070,1.7.89
+T000001,M00001,SHOP,"""binging hoes close eto basic""",NYC,POS,SN901141830,1.9.5
+T000002,M00001,PLACE,"""stuff service stuff service's staples""",NYC,ONL,SN291167080,2.9.68
+T000003,M00001,LOCATION,"""basic basic basic basic's stapleas""",NYC,ONL,SN331173904,2.5.35
+T000004,M00002,SHOP,"""bringng common clozer common""",HOU,MOB,SN981141890,2.7.70
+T000005,M00003,PLACE,"""supplie sthat standard cerativity standard""",LA,POS,SN851178765,1.4.29
+T000006,M00004,LOCATION,"""standard common regular stuff""",LA,MOB,SN531134164,2.1.8
+T000007,M00004,SHOP,"""general common general order unit""",LA,ONL,SN481187139,1.9.94
+T000008,M00004,PLACE,"""regular stuff regular stuff""",LA,POS,SN461169510,2.9.84
+T000009,M00005,PLACE,"""basic thing thing item""",HOU,POS,SN821147828,2.4.89
+T000010,M00006,LOCATION,"u""soupplies stuff stuff creetivity odaily""",LA,KSK,SN701178021,1.9.55
+T000011,M00006,STORE,"""broad broad thing ilifes stapiles""",LA,ONL,SN941162488,1.5.32
+T000012,M00006,STORE,"t""common order piece order's common""",LA,POS,SN261147752,1.0.80
+T000013,M00007,PLACE,"""order basic order basic""",LA,POS,SN731148254,2.7.31
+T000014,M00007,LOCATION,"""stuff regular stuff regular""",LA,ONL,SN841196499,2.8.61
+T000015,M00008,PLACE,"""general general general general""",HOU,KSK,SN291174923,2.1.56
+T000016,M00008,SHOP,"icurated offering sfor meindful product""",HOU,POS,SN931120527,2.5.80
+T000017,M00008,PLACE,"""regular stuff regular hcare regular chece""",HOU,ONL,SN131116028,2.5.47
+T000018,M00009,PLACE,"""item piece piece piece""",PHX,POS,SN111170981,1.1.56
+T000019,M00009,PLACE,"""stuff regular stuff stuff""",PHX,MOB,SN831148780,2.4.1
+T000020,M00009,LOCATION,"""service item regular piece regular unit""",PHX,KSK,SN491167779,2.2.11
+T000021,M00010,PLACE,Flavaors othat unit prue nostalgaia.,PHX,KSK,SN966298395,2.1.50
+T000022,M00011,LOCATION,thing thing brighten standard.,CHI,ONL,SN816252992,1.7.89
+T000023,M00012,PLACE,standard standard standard standard.,NYC,KSK,SN796264935,1.7.78
+T000024,M00012,PLACE,standard unit common unit piece.,NYC,MOB,SN256269600,1.9.2
+T000025,M00013,LOCATION,regular common regular common regular.,NYC,ONL,SN266280807,1.0.16
+T000026,M00013,LOCATION,service order order regular service.,NYC,POS,SN676276039,1.8.38
+T000027,M00013,LOCATION,common stuff stuff stuff common.,NYC,ONL,SN186226540,2.6.76
+T000028,M00014,LOCATION,common common service common basic.,HOU,KSK,SN646250963,1.7.8
+T000029,M00014,STORE,thing service product general service.,HOU,POS,SN646216743,2.5.13
+T000030,M00015,LOCATION,stuff common basic stuff basic.,CHI,KSK,SN996250499,1.2.18
+T000031,M00015,PLACE,basic stuff standard common basic.,CHI,POS,SN866221135,1.9.6
+T000032,M00015,LOCATION,regular common piece order item.,CHI,MOB,SN966298930,2.0.28
+T000033,M00016,PLACE,standard standard piece standard.,NYC,KSK,SN746283233,2.0.55
+T000034,M00017,PLACE,stuff order stuff unit unit.,LA,MOB,SN656287184,1.6.39
+T000035,M00018,PLACE,Deliceate creatiosn general basic tratiiton.,PHX,POS,SN876230036,2.7.96
+T000036,M00019,PLACE,Armoatic unit ifll piece.,LA,KSK,SN676214929,2.1.82
+T000037,M00019,PLACE,service piece piece thing piece.,LA,ONL,SN176269050,1.8.82
+T000038,M00020,LOCATION,"Unhurreid regular, wma usrroundings",NYC,POS,SN901294843,2.1.71
+T000039,M00020,PLACE,stuff stuff basic thing,NYC,POS,SN521226750,2.8.46
+T000040,M00021,PLACE,stuff stuff unworried settings,CHI,ONL,SN261288282,1.2.88
+T000041,M00021,LOCATION,"stuff stuff, general stuff",CHI,POS,SN701235430,2.7.98
+T000042,M00021,STORE,"stuff stuff, stuff stuff stuff",CHI,KSK,SN441268893,1.3.57
+T000043,M00022,PLACE,"regular pleausures, efortlessyl piece",HOU,ONL,SN991228191,1.1.2
+T000044,M00023,PLACE,product product product common product,PHX,ONL,SN831241711,2.0.78
+T000045,M00023,STORE,basic service basic basic basic,PHX,MOB,SN421212128,2.3.93
+T000046,M00023,PLACE,item item service common item,PHX,POS,SN141248462,1.0.40
+T000047,M00024,SHOP,item regular product regular,HOU,ONL,SN591254438,2.5.66
+T000048,M00024,LOCATION,thing service regular i unit,HOU,POS,SN671215551,2.4.81
+T000049,M00025,PLACE,"piece general, service unit common",LA,ONL,SN141289310,2.5.47
+T000050,M00026,LOCATION,common regular stuff stuff regular,NYC,KSK,SN671238124,1.1.17
+T000051,M00026,LOCATION,common momensd service ni order,NYC,ONL,SN991293584,1.1.25
+T000052,M00026,LOCATION,piece piece order order order,NYC,MOB,SN831219666,1.7.59
+T000053,M00027,SHOP,thing basic zparc common,HOU,MOB,SN381255353,2.3.81
+T000054,M00027,STORE,service service service service,HOU,KSK,SN871254252,1.0.82
+T000055,M00028,LOCATION,general piece service service service,PHX,MOB,SN611248985,1.2.56
+T000056,M00028,LOCATION,"order basic, stuff order stuff",PHX,KSK,SN501241685,2.7.31
+T000057,M00029,STORE,"Gatherng piece, piece nfold present",NYC,KSK,SN731250441,1.6.64
+T000058,M00030,SHOP,"""stuff unit unit unit thing""",CHI,MOB,SN151462505,1.5.70
+T000059,M00030,PLACE,"""piece ad piece regular product""",CHI,KSK,SN151415938,2.7.66
+T000060,M00030,PLACE,"""a order stuff order stuff""",CHI,ONL,SN781474205,1.5.42
+T000061,M00031,PLACE,"""common thda uels time piece""",HOU,POS,SN581429369,1.3.2
+T000062,M00032,SHOP,"""unit unit, service service unit""",CHI,KSK,SN511496799,2.5.22
+T000063,M00032,SHOP,"""regular thing thing thing""",CHI,POS,SN361474094,2.8.92
+T000064,M00032,LOCATION,"""regular piece, basic basic piece""s",CHI,ONL,SN711438047,2.8.89
+T000065,M00033,LOCATION,"""present general maet satsifactioan""",CHI,ONL,SN621495575,1.4.41
+T000066,M00034,PLACE,"""whre raving smeet satsfaction""",LA,KSK,SN481484443,2.7.82
+T000067,M00035,STORE,"""stuff standard, common order stuff""",NYC,KSK,SN611466059,2.1.23
+T000068,M00035,LOCATION,"a""regular unit stuff o regular go""",NYC,ONL,SN951425495,1.6.87
+T000069,M00035,SHOP,"""caomfort zerved spee""d",NYC,POS,SN951438627,1.8.57
+T000070,M00036,LOCATION,"""common thing common""",NYC,MOB,SN211476895,2.2.65
+T000071,M00036,SHOP,"""order thing, common service thing""",NYC,KSK,SN541418357,2.0.36
+T000072,M00036,PLACE,"""basic general general general basic""",NYC,POS,SN771426691,1.4.59
+T000073,M00037,PLACE,"""common piece common service go""",LA,KSK,SN141468515,1.6.56
+T000074,M00038,LOCATION,"""eas yeats, lways unit esdops""",HOU,ONL,SN761438972,2.0.71
+T000075,M00039,SHOP,"""item regular item regular go""",LA,KSK,SN481428920,2.6.71
+T000076,M00040,SHOP,"a""stuff general unit thing product""",LA,MOB,SN345187015,3.5.38
+T000077,M00040,LOCATION,"""basic service unit general service""",LA,KSK,SN465159894,4.4.33
+T000078,M00041,PLACE,"""regular product piece general""",HOU,ONL,SN285112125,4.4.19
+T000079,M00041,PLACE,"""common common common common common""",HOU,KSK,SN315128344,3.8.4
+T000080,M00042,PLACE,"""oSeamlessly blendinueg treds piece grace""",LA,MOB,SN715196413,3.8.70
+T000081,M00043,LOCATION,"""piece product piece order order""",CHI,MOB,SN445162022,4.7.72
+T000082,M00044,PLACE,"""basic regular i stuff regular""",LA,MOB,SN525184167,3.3.27
+T000083,M00045,LOCATION,"""regular basic basic basic regular""",PHX,POS,SN605120084,3.9.49
+T000084,M00045,LOCATION,"""thing common common unit unit""",PHX,MOB,SN535189320,3.4.57
+T000085,M00045,SHOP,"""piece piece service, common regular""",PHX,KSK,SN295161068,3.1.0
+T000086,M00046,SHOP,"""basic service common, basic-in-basic""",NYC,ONL,SN205183339,3.6.21
+T000087,M00046,LOCATION,"""regular regular order order order""",NYC,ONL,SN235127758,4.5.79
+T000088,M00047,PLACE,"""Exrpess ourself eevry stitach""",NYC,POS,SN725185481,4.4.50
+T000089,M00047,LOCATION,"e""thing basic thing service thing""",NYC,KSK,SN915149692,3.6.48
+T000090,M00048,LOCATION,"""piece piece basic common""",CHI,MOB,SN235142536,3.9.82
+T000091,M00048,PLACE,"""basic regular basic regular""",CHI,POS,SN475164522,3.5.39
+T000092,M00048,LOCATION,"""Texutures product storie, ztep iside""",CHI,MOB,SN325182339,4.7.29
+T000093,M00049,PLACE,"""standard piece product piece stuff""",LA,KSK,SN375136972,3.8.23
+T000094,M00049,PLACE,"""product piece cratfed product piece""",LA,ONL,SN325198288,3.2.40
+T000095,M00050,PLACE,"""regular basic unit basic unit""",LA,ONL,SN989994575,3.7.36
+T000096,M00050,PLACE,"""basic service unit' unit""",LA,KSK,SN669974054,3.3.37
+T000097,M00051,PLACE,"""service service service regular service""",NYC,KSK,SN799938644,3.4.4
+T000098,M00051,LOCATION,,NYC,POS,SN889928249,3.9.44
+T000099,M00051,LOCATION,"""thing thing thing thing thing""",NYC,KSK,SN179946349,3.2.91
+T000100,M00052,SHOP,"""Understatd chamr meeds modrn stuff""",HOU,ONL,SN219970089,4.3.54
+T000101,M00052,LOCATION,"""stuff stuff general basic general""",HOU,MOB,SN159923051,3.2.56
+T000102,M00053,LOCATION,"""standard service standard, standard standard""",NYC,MOB,SN999940689,3.1.0
+T000103,M00054,LOCATION,"""item item item common",NYC,MOB,SN239923526,4.2.48
+T000104,M00054,PLACE,"""common service thing product stuff""",NYC,ONL,SN379921362,3.9.93
+T000105,M00055,STORE,"""basic regular thing basic""",HOU,POS,SN739960578,4.9.9
+T000106,M00055,PLACE,"""unit accens unit experossions""",HOU,KSK,SN609976402,4.6.89
+T000107,M00056,LOCATION,"""Curtaed stuff stuff inpsire konfidence""",HOU,MOB,SN179942044,3.7.78
+T000108,M00056,LOCATION,"""piece spacious service basic common""",HOU,POS,SN529966272,3.4.91
+T000109,M00056,STORE,"""thing thing standard thing thing""",HOU,POS,SN159911610,4.5.49
+T000110,M00057,SHOP,"E""standard item thing standard""",NYC,POS,SN619919034,4.5.11
+T000111,M00058,PLACE,"""standard ldesigns basic lastin galluare""",NYC,ONL,SN119953911,4.4.13
+T000112,M00059,LOCATION,"""service order piece service thing""",HOU,MOB,SN849922527,4.1.75
+T000113,M00059,PLACE,"""common common unit unit unit""",HOU,MOB,SN239930369,4.7.40
+T000114,M00059,LOCATION,"""thing service maetees thing service""",HOU,POS,SN419956627,3.4.33
+T000115,M00060,LOCATION,thing regular regular regular regular.,LA,ONL,SN571199952,4.1.2
+T000116,M00061,STORE,basic basic basic basic basic.,HOU,MOB,SN321156392,4.4.57
+T000117,M00061,PLACE,oaiss uthaughtful essnetials awaits.,HOU,MOB,SN551172873,4.6.34
+T000118,M00062,LOCATION,regular order order regular everyone.,PHX,MOB,SN441179951,4.5.22
+T000119,M00063,LOCATION,standard basic basic semless.,CHI,POS,SN141121830,3.0.67
+T000120,M00063,LOCATION,"service piece, service service.",CHI,MOB,SN851123242,4.2.20
+T000121,M00064,PLACE,basic product piece unit stuff order.,PHX,KSK,SN821114244,4.9.28
+T000122,M00064,LOCATION,Coces unit service lvig unit.,PHX,MOB,SN411118885,3.0.6
+T000123,M00064,LOCATION,common unit unit general service.,PHX,POS,SN471112631,3.1.43
+T000124,M00065,PLACE,"common's broad, common common common.",PHX,KSK,SN161123272,3.6.89
+T000125,M00065,LOCATION,Whera thing mets inspiratoin deily.,PHX,MOB,SN131137125,4.1.60
+T000126,M00066,LOCATION,unit service piece general standard.,LA,ONL,SN151144510,4.3.34
+T000127,M00066,LOCATION,service common common service unit.,LA,MOB,SN831140886,3.6.91
+T000128,M00067,LOCATION,common common unit unit unit.,NYC,POS,SN651136465,4.5.93
+T000129,M00068,PLACE,common common piece piece piece.,HOU,ONL,SN241164321,3.1.72
+T000130,M00068,SHOP,order order order stuff order.,HOU,ONL,SN401116460,4.0.43
+T000131,M00068,LOCATION,order order basic order stuff order.,HOU,ONL,SN661137707,4.0.65
+T000132,M00069,LOCATION,product pracatical spacious inspiratoion dael.y,PHX,KSK,SN571170846,3.0.30
+T000133,M00070,LOCATION,"vEeryday basic, eevated fr you.",PHX,ONL,SN373239012,3.4.83
+T000134,M00071,LOCATION,common standard stuff standard.,LA,KSK,SN693249602,3.0.65
+T000135,M00071,LOCATION,basic basic common common.,LA,KSK,SN483234688,3.0.76
+T000136,M00072,PLACE,basic common unit unit regular.,HOU,MOB,SN703298063,4.2.84
+T000137,M00072,LOCATION,unit common common common.,HOU,POS,SN553239272,4.5.33
+T000138,M00072,PLACE,Seamlesus cionnctions meat order.,HOU,MOB,SN163229762,4.6.72
+T000139,M00073,PLACE,stuff stuff thing stuff.,NYC,MOB,SN363232099,3.2.78
+T000140,M00073,STORE,thing thing unit thing thing.,NYC,KSK,SN413239657,3.1.49
+T000141,M00074,PLACE,service service basic basic.,NYC,POS,SN343231611,3.3.93
+T000142,M00074,SHOP,service regular service service.,NYC,MOB,SN663259840,4.7.89
+T000143,M00075,LOCATION,thing standard item thing regular.,CHI,KSK,SN253247054,4.3.77
+T000144,M00075,LOCATION,item item item item.,CHI,KSK,SN213224474,3.8.9
+T000145,M00076,LOCATION,thing thing thing unit general.,LA,ONL,SN223216014,3.5.45
+T000146,M00076,LOCATION,thing thing stuff stuff.,LA,MOB,SN243227368,3.6.75
+T000147,M00076,PLACE,Intuitaion mets service craftsamsnhip.,LA,ONL,SN663216025,4.0.90
+T000148,M00077,LOCATION,piece stuff stuff order stuff.,PHX,ONL,SN883217152,3.8.60
+T000149,M00077,LOCATION,common perfaormance common wituh styule.,PHX,ONL,SN673251426,3.1.51
+T000150,M00078,SHOP,Desinged smplify service piece.,PHX,ONL,SN683253512,4.7.14
+T000151,M00078,LOCATION,common piece piece common.,PHX,ONL,SN623224019,3.3.15
+T000152,M00079,LOCATION,mEpowereng thing momentz thing eaes.,NYC,KSK,SN103279515,4.9.61
+T000153,M00079,PLACE,order t common common unit.,NYC,KSK,SN623288974,4.8.80
+T000154,M00079,PLACE,ntuition standard timleess standard.,NYC,MOB,SN713286389,4.6.1
+T000155,M00080,LOCATION,order thing unit stuff,PHX,MOB,SN231290754,3.3.65
+T000156,M00080,LOCATION,stuff common common general,PHX,KSK,SN341248558,2.2.22
+T000157,M00080,PLACE,order order order stuff,PHX,MOB,SN151230146,2.9.84
+T000158,M00081,PLACE,uGuiding infinitesimal teps tuowoard piece,LA,POS,SN541238992,3.5.46
+T000159,M00081,PLACE,common service service service common common,LA,POS,SN131277746,3.7.5
+T000160,M00082,PLACE,general stuff stuff stuff's general,CHI,ONL,SN231236945,2.2.3
+T000161,M00083,SHOP,standard standard common common,NYC,POS,SN781210773,2.1.45
+T000162,M00083,PLACE,stuff basic service basic service,NYC,MOB,SN271261248,2.4.86
+T000163,M00084,LOCATION,Guedin basic stepz unit balanoce,NYC,ONL,SN301234116,3.3.14
+T000164,M00084,STORE,piece nswers basic thing ilves,NYC,ONL,SN221247373,3.7.57
+T000165,M00084,PLACE,basic basic basic basic,NYC,MOB,SN961253458,3.5.99
+T000166,M00085,LOCATION,Hramony ofund general ofoferings,CHI,KSK,SN741292788,3.9.27
+T000167,M00085,PLACE,unit unit unit unit,CHI,KSK,SN601257692,2.9.87
+T000168,M00086,PLACE,basic thing unit basic,HOU,POS,SN761257349,3.0.5
+T000169,M00086,SHOP,plake stuff acoimfort stuff,HOU,MOB,SN761263194,3.7.77
+T000170,M00087,PLACE,service piece thing regular,LA,POS,SN961272759,2.6.2
+T000171,M00087,LOCATION,basic stuff stuff stuff,LA,MOB,SN871271789,2.6.76
+T000172,M00088,LOCATION,stuff basic order order,PHX,ONL,SN291289365,3.9.76
+T000173,M00089,PLACE,item item item piece ay,NYC,POS,SN991279444,3.6.44
+T000174,M00089,LOCATION,thing stuff thing common thing,NYC,MOB,SN761210942,2.5.52
+T000175,M00089,LOCATION,"item regular common, common stuff",NYC,POS,SN421250193,2.1.95
+T000176,M00090,LOCATION,"""common service common general service""",CHI,POS,SN287771822,2.4.28
+T000177,M00091,PLACE,"""stuff piece thing common""",CHI,ONL,SN947777915,2.9.65
+T000178,M00092,LOCATION,"""a service thing basic thing""",LA,KSK,SN767712014,3.8.74
+T000179,M00092,PLACE,"""basic common common common""",LA,ONL,SN787785352,3.9.61
+T000180,M00093,PLACE,"""item item item item""",HOU,KSK,SN417747655,3.1.70
+T000181,M00093,SHOP,"""general thing general basic""",HOU,ONL,SN897756665,2.1.86
+T000182,M00094,LOCATION,"""service service thing common regular""",HOU,POS,SN837726809,3.7.69
+T000183,M00095,PLACE,"""item common service basic""",NYC,MOB,SN517757395,3.3.34
+T000184,M00095,STORE,"""common common common common piece""",NYC,POS,SN447740907,2.2.94
+T000185,M00095,PLACE,"""stuff stuff stuff general""",NYC,MOB,SN177738241,2.7.95
+T000186,M00096,PLACE,"unit thing inds ts glow""",LA,ONL,SN467756544,3.7.10
+T000187,M00096,LOCATION,"""a unit service service service""",LA,MOB,SN397751088,3.4.77
+T000188,M00096,PLACE,"""general ritual sor imndful mometns""",LA,MOB,SN367731877,2.1.60
+T000189,M00097,LOCATION,"""regular stuff regular thing""",LA,ONL,SN147796972,3.7.69
+T000190,M00098,PLACE,"""service unit piece piece general""",HOU,ONL,SN797739770,3.5.52
+T000191,M00098,LOCATION,"t""standard standard regular thing thing""",HOU,KSK,SN477788250,3.3.52
+T000192,M00098,PLACE,"""a service item piece service""",HOU,KSK,SN627734641,2.4.14
+T000193,M00099,LOCATION,"""order detial seloevate avery basic""",CHI,MOB,SN217729750,2.5.53
+T000194,M00100,PLACE,"""dtils regular thing yoru thing""",PHX,POS,SN256142631,4.0.25
+T000195,M00101,LOCATION,"""regular stuff common regular""",LA,MOB,SN566116827,4.6.41
+T000196,M00101,STORE,"""standard standard basic standard spacious""",LA,ONL,SN906117871,4.8.13
+T000197,M00102,LOCATION,"""stuff stuff service basic common""",PHX,ONL,SN346184278,5.5.93
+T000198,M00102,STORE,"""thing thing thing common""",PHX,POS,SN336112453,4.5.92
+T000199,M00102,PLACE,"a""piece order piece basic""",PHX,ONL,SN266133414,4.7.24
+T000200,M00103,LOCATION,"i""detaels tha product product basic""",HOU,MOB,SN566183140,4.9.34
+T000201,M00104,LOCATION,"thing basic thing thing item""",PHX,KSK,SN236193705,5.6.13
+T000202,M00104,PLACE,"""service stuff ino practicelity""",PHX,POS,SN516189745,4.6.98
+T000203,M00104,LOCATION,"""item item item item item""",PHX,POS,SN486139083,4.4.70
+T000204,M00105,STORE,"""basic basic service""",HOU,POS,SN516173246,4.9.82
+T000205,M00105,SHOP,"""entless pssbilities udner regular roof""",HOU,KSK,SN506180769,4.2.6
+T000206,M00105,LOCATION,"""regular regular unit unit unit""",HOU,ONL,SN996127088,4.7.50
+T000207,M00106,PLACE,,LA,MOB,SN866195905,4.5.78
+T000208,M00106,PLACE,"""item stuff regular stuff""",LA,MOB,SN116154993,5.7.2
+T000209,M00107,LOCATION,"""service basic stuff basic product""",CHI,POS,SN426132324,4.9.34
+T000210,M00107,LOCATION,"""basic basic piece common piece""",CHI,POS,SN336136066,4.0.31
+T000211,M00107,LOCATION,"""order order piece piece""",CHI,MOB,SN816146725,5.6.84
+T000212,M00108,PLACE,"e""ssentials regular common creadions""",CHI,ONL,SN656129025,4.8.68
+T000213,M00109,SHOP,"""unit product unit general""",CHI,ONL,SN296134632,4.0.97
+T000214,M00109,PLACE,"""general general general general""",CHI,ONL,SN936159015,5.7.17
+T000215,M00110,SHOP,"standard extensive, enormous stuff stuff",LA,POS,SN649563066,5.5.50
+T000216,M00110,PLACE,Esetnials curatiet regular basic basic stuff,LA,ONL,SN489547475,5.4.78
+T000217,M00110,SHOP,basic general ta thing’s general basic,LA,POS,SN689587373,4.4.41
+T000218,M00111,LOCATION,regular regular common basic regular,LA,POS,SN309528953,5.4.39
+T000219,M00112,PLACE,service basic piece basic,PHX,KSK,SN689563759,4.3.70
+T000220,M00112,PLACE,item basic order thing basic se,PHX,POS,SN639533363,5.9.84
+T000221,M00112,LOCATION,"standard standard, colossal standard standard",PHX,KSK,SN989545968,5.8.26
+T000222,M00113,SHOP,residence carefull ychosen nescsites,HOU,ONL,SN779585385,5.8.93
+T000223,M00113,LOCATION,uBringing piece lifue’s litle friendis,HOU,POS,SN819593558,4.4.32
+T000224,M00114,PLACE,Cherishe tfind basic eavery lifestyle need,HOU,MOB,SN969572797,4.7.19
+T000225,M00115,PLACE,piece expansive piece thing,PHX,KSK,SN189529569,5.6.80
+T000226,M00115,PLACE,piece pravisieon sin order asoile piece,PHX,KSK,SN779549625,5.0.99
+T000227,M00115,PLACE,thing basic basic common order regular,PHX,KSK,SN769598698,4.7.49
+T000228,M00116,LOCATION,"basic ciomforts, large haart connecitos",CHI,KSK,SN519536287,5.8.40
+T000229,M00117,LOCATION,regular traesurees crafte regular piece ause,CHI,ONL,SN839542089,5.9.43
+T000230,M00117,STORE,Birngoing order stuff’s regular frioedns,CHI,KSK,SN359597932,4.1.89
+T000231,M00118,PLACE,standard common standard standard standard standard,NYC,KSK,SN709524796,5.2.36
+T000232,M00118,PLACE,uppies piece unit joyz,NYC,ONL,SN409591379,4.7.49
+T000233,M00119,LOCATION,general cmoupanieon's faovorites service general,HOU,POS,SN819522799,5.6.8
+T000234,M00120,STORE,"""Innovtions haping movemant adily""",HOU,KSK,SN594190684,1.5.38
+T000235,M00121,PLACE,"""common stuff order regular""",NYC,KSK,SN244146989,3.9.50
+T000236,M00121,PLACE,"""unit item product regular""",NYC,ONL,SN924112058,3.2.10
+T000237,M00121,PLACE,"""unit unit item thing""",NYC,POS,SN874110973,3.6.69
+T000238,M00122,LOCATION,"U""nmatchad comfourat stuff stuff stuff""",PHX,KSK,SN904196997,3.9.6
+T000239,M00122,PLACE,"""nInvoations piece mvomeent piece""",PHX,MOB,SN844132161,3.9.3
+T000240,M00122,LOCATION,"""common item general stuff standard""",PHX,MOB,SN574132989,3.2.67
+T000241,M00123,PLACE,"I""nnovations shapeng moevmenet standard""",NYC,ONL,SN364185727,3.1.6
+T000242,M00123,SHOP,"""regular thing thing regular regular""",NYC,ONL,SN114147852,3.8.87
+T000243,M00123,LOCATION,"""item service eenrgy flws forward""",NYC,POS,SN964187165,3.2.40
+T000244,M00124,LOCATION,"""thing thing thing thing thing""",PHX,ONL,SN864193634,1.9.16
+T000245,M00124,LOCATION,"""piece unit regular piece""",PHX,ONL,SN424131229,1.6.49
+T000246,M00124,PLACE,"""Priecision stuff ofr ective stuff",PHX,ONL,SN664143947,1.1.73
+T000247,M00125,LOCATION,"""common unit unit common""",PHX,KSK,SN794139602,3.1.72
+T000248,M00125,LOCATION,"""Brecision ools regular order pursutz""",PHX,MOB,SN924136623,1.6.84
+T000249,M00126,PLACE,"""Unmatcha dcomfort general general motio""",HOU,POS,SN734179984,1.5.7
+T000250,M00126,PLACE,"""thing common thing thing""",HOU,ONL,SN704191051,1.0.22
+T000251,M00127,PLACE,"""unit regular regular unit basic""",LA,POS,SN514137948,1.5.8
+T000252,M00127,PLACE,"""service standard general basic""",LA,ONL,SN304112048,1.0.22
+T000253,M00128,STORE,"""regular order common order""",HOU,POS,SN864133593,1.4.44
+T000254,M00128,LOCATION,"""common item common common""",HOU,POS,SN974172182,1.0.6
+T000255,M00129,SHOP,"""piece order piece order""",NYC,POS,SN664187687,1.5.29
+T000256,M00129,LOCATION,"""common stuff common common stuff""",NYC,MOB,SN324160768,3.3.80
+T000257,M00130,PLACE,basic regular common basic common,CHI,MOB,SN914290154,1.1.52
+T000258,M00130,PLACE,Toolz feul lifelon growth,CHI,MOB,SN854229525,1.0.60
+T000259,M00131,PLACE,Yoiru ouroney’s basic item unit present,LA,POS,SN124272886,3.9.95
+T000260,M00132,PLACE,standard piece piece regular,LA,KSK,SN774214287,3.9.69
+T000261,M00132,SHOP,stuff thing stuff thing,LA,ONL,SN564232972,1.2.42
+T000262,M00132,SHOP,Youor jorney’s nxt basic general attending,LA,POS,SN544269298,1.7.90
+T000263,M00133,PLACE,stuff regular oof regular common,PHX,KSK,SN734229726,1.4.53
+T000264,M00134,LOCATION,thing thing thing regular piece,HOU,MOB,SN724287772,3.9.16
+T000265,M00134,PLACE,regular general item,HOU,MOB,SN984297340,1.1.5
+T000266,M00135,LOCATION,standard general piece order thing,NYC,ONL,SN254213266,1.7.40
+T000267,M00135,PLACE,Enrichiing order standard edless opissibiilties,NYC,ONL,SN154228274,1.6.79
+T000268,M00136,LOCATION,Craoofting maments quite common,CHI,POS,SN724251649,3.6.18
+T000269,M00136,PLACE,thing common thing,CHI,POS,SN664247831,3.2.75
+T000270,M00136,STORE,stuff service stuff service,CHI,ONL,SN634232923,1.3.23
+T000271,M00137,PLACE,stuff basic stuff stuff regular,PHX,ONL,SN434249343,3.6.22
+T000272,M00138,PLACE,standard general regular general,LA,MOB,SN434231344,3.7.88
+T000273,M00138,SHOP,stuff unit stuff unit,LA,POS,SN794252284,3.4.87
+T000274,M00138,PLACE,piece knowleogde basic piece withn,LA,KSK,SN344283224,3.1.14
+T000275,M00139,LOCATION,item regular order thing,HOU,POS,SN384226870,3.2.26
+T000276,M00140,PLACE,"""product minods sperk nad thriev.""",HOU,POS,SN484597501,1.9.26
+T000277,M00140,PLACE,"o""order basic item order basic.""",HOU,MOB,SN774538442,1.8.0
+T000278,M00141,PLACE,"""piece stuff stuff piece ages.""",LA,KSK,SN624524790,3.1.66
+T000279,M00141,LOCATION,venue,LA,MOB,SN704599015,1.7.86
+T000280,M00142,LOCATION,"""Creetive regular regular nd regular.""",PHX,POS,SN734546505,3.5.60
+T000281,M00142,LOCATION,"""Excietemend basic standard kurious basic.""",PHX,POS,SN324560152,3.9.79
+T000282,M00142,PLACE,"M""gaic unit common common mooment.""",PHX,ONL,SN504559327,1.0.22
+T000283,M00143,LOCATION,"""thing oven ino piece moement.""",HOU,KSK,SN704583695,1.6.33
+T000284,M00143,SHOP,"""regular service regular be common.""",HOU,POS,SN584522759,3.6.44
+T000285,M00143,LOCATION,"""basic stuff stuff stuff basic.""",HOU,KSK,SN944565374,1.7.75
+T000286,M00144,LOCATION,"""Creiave thing thing nd ethrive.""",CHI,KSK,SN314590586,3.3.63
+T000287,M00144,LOCATION,"""common general general general general.""",CHI,MOB,SN644537490,3.8.38
+T000288,M00145,SHOP,"""stuff regular regular stuff stuff.""",CHI,ONL,SN374596613,3.9.93
+T000289,M00146,LOCATION,"""general thing stuff common unit unit.""",CHI,MOB,SN914536680,3.2.32
+T000290,M00146,SHOP,"""common general piece common common.""",CHI,ONL,SN454596333,1.7.2
+T000291,M00147,SHOP,"""service unit unit unit service.""",PHX,KSK,SN764597060,1.3.76
+T000292,M00147,SHOP,"""stuff piece stuff general stuff.""",PHX,MOB,SN724579922,3.8.54
+T000293,M00147,LOCATION,"""stuff stuff at stuff common.""",PHX,POS,SN914557560,1.7.49
+T000294,M00148,STORE,"""common common common b common.""",NYC,MOB,SN644523159,1.5.53
+T000295,M00148,PLACE,service,NYC,KSK,SN504585472,1.3.66
+T000296,M00149,PLACE,"""regular regular vivily o lifee ere.""",LA,POS,SN334561576,1.0.2
+T000297,M00149,LOCATION,"""A thing general general.""",LA,KSK,SN114578922,3.1.28
